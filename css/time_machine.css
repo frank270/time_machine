@@ -1,0 +1,6 @@
+img.time_machine_img {
+  border: 5px solid rgba(0,0,0,.6);
+  border-radius: 3px;
+  display: block;
+  position: absolute;
+}
